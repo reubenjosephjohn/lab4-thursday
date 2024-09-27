@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Welcime to 301!
 Thursday
 5-8pm
+=======
+Welcome to 301!
+Thursday Lab
+5-8pm
+>>>>>>> origin
